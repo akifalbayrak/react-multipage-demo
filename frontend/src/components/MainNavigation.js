@@ -38,7 +38,7 @@ function MainNavigation() {
                     </li>
                 </ul>
             </nav>
-            <NewsletterSignup />
+            {/* <NewsletterSignup /> */}
         </header>
     );
 }
